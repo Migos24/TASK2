@@ -1,9 +1,5 @@
-ZeroFour by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-
-A responsive general purpose site template design named as such because it's the fourth
+A responsive general purpose site web design named as such because it's the fourth
 design up here (very creative I know). Has plenty of room for all sorts of content
 and even multilevel drop down menus.
 
